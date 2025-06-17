@@ -2,6 +2,7 @@ package org.example.classes
 
 class Calculator {
 
+    //This is the constructor for the calculator
     public fun Calculator()
     {
         println("Calculator has been created")
