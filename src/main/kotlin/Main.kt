@@ -5,6 +5,7 @@ import org.example.classes.Calculator
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 //The main folder which should run when we run the application
+
 fun main() {
 
     val calc = Calculator()
